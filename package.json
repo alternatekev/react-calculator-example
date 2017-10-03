@@ -1,0 +1,19 @@
+{
+  "name": "react-calculator-example",
+  "version": "0.0.1",
+  "description": "React training for Community Funded",
+  "scripts": {
+    "export": "next build && next export",
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "author": "Kevin Conboy <kevin@communityfunded.com> (http://communityfunded.com/)",
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-icons": "^2.2.5",
+    "tachyons-js": "^0.3.1"
+  }
+}
