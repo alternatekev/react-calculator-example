@@ -1,3 +1,8 @@
+import Page from '../components/Page';
+import Calculator from '../components/Calculator';
+
 export default () => (
-  <div>Hi. Let's build a calculator :)</div>
+  <Page>
+    <Calculator />
+  </Page>
 )
